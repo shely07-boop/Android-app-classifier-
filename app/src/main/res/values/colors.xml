@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Class colors (light mode). Dark mode versions are in values-night/colors.xml -->
+    <color name="class_normal">#FF2E7D32</color>      <!-- green -->
+    <color name="class_pneumonia">#FFC62828</color>   <!-- red -->
+    <color name="on_class_chip">#FFFFFFFF</color>     <!-- text on the colored chip -->
+
+    <!-- X-rays look best on a black background in both modes -->
+    <color name="xray_background">#FF000000</color>
+</resources>

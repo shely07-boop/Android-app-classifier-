@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Sheyla_Arteaga_lab15</string>
+
+    <!-- Top app bar -->
+    <string name="toolbar_title">Pneumonia Detector</string>
+    <string name="toolbar_subtitle">Chest X-ray classifier (TFLite)</string>
+
+    <!-- Buttons -->
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_choose">Choose image</string>
+    <string name="btn_label">Label Image</string>
+
+    <string name="image_description">Chest X-ray</string>
+
+    <!-- %1$d = current position, %2$d = total images, %3$s = file name -->
+    <string name="asset_image_name">Image %1$d/%2$d: %3$s</string>
+    <!-- %1$s = file name picked from the gallery -->
+    <string name="gallery_image_name">Gallery: %1$s</string>
+    <string name="selected_image">selected image</string>
+    <string name="error_open_image">Could not open the image</string>
+
+    <!-- Result card -->
+    <string name="result_title">Result</string>
+    <string name="result_hint">Press Label Image to classify</string>
+    <!-- %1$d = inference time in milliseconds -->
+    <string name="inference_time">Inference time: %1$d ms</string>
+
+    <string name="disclaimer">For educational purposes only. Not a medical diagnosis.</string>
+</resources>

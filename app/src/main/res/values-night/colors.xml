@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lighter tones so the colors are readable on a dark background -->
+    <color name="class_normal">#FF81C784</color>      <!-- light green -->
+    <color name="class_pneumonia">#FFEF9A9A</color>   <!-- light red -->
+    <color name="on_class_chip">#FF000000</color>     <!-- dark text on the light chip -->
+</resources>
