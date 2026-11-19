@@ -1,0 +1,25 @@
+# Gradle / Kotlin caches
+.gradle/
+.kotlin/
+
+# Build outputs (root and every module)
+build/
+app/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Machine-specific SDK path
+local.properties
+
+# Packaged apps
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
